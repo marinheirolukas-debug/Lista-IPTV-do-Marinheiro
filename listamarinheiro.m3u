@@ -2261,7 +2261,7 @@ http://avu.lat/live/246280519/864769056/439313.ts
 http://avu.lat/live/246280519/864769056/439314.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQfFaSU.png" group-title="Canais DISNEY+",DISNEY+ EVENTO 30
 http://avu.lat/live/246280519/864769056/439315.ts
-TINF:-1 group-title="Canais Desenhos Infantis 24H",24H 3 PALAVRINHAS
+#EXTINF:-1 group-title="Canais Desenhos Infantis 24H",24H 3 PALAVRINHAS
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/96566
 #EXTINF:-1 group-title="Canais Desenhos Infantis 24H",24H 44 GATOS
 http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/96567
